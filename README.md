@@ -26,7 +26,6 @@ I am passionate about data science. In this page you can find learning resources
 
 - 🌱 I’m currently learning machine learning techniques, advanced SQL and AWS cloud
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with develop models and exploratory data analysis
 - ⚡ Hobbies: Sports (football and fitness) and Traveling around the world
 
 ## Where to find me:
